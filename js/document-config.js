@@ -4,7 +4,7 @@ var documentConfig =
   subtitle: "versie 3.0rc-intern",
   shortName: "PMKL30rc-intern",
   pubDomain: "kl",
-  specStatus: "wv",
+  specStatus: "cv",
   specType: "st",
   license: "cc-by-nd",
   latestVersion: [
@@ -13,7 +13,7 @@ var documentConfig =
   publishDate: "2024-09-30",
   publishVersion: "3.0.0",
   thisVersion: [
-    "https://geonovum.github.io/kl-PMKL30rc-intern/"
+    "https://docs.geostandaarden.nl/kl/cv-st-PMKL30rc-intern-20240930/"
   ],
   edDraftURI: "https://geonovum.github.io/kl-PMKL30rc-intern/",
   canonicalURI: "https://docs.geostandaarden.nl/kl/PMKL30rc-intern/",
